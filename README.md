@@ -2,7 +2,8 @@
 
 Cheat sheets for various tools and languages.
 
-Currently the following are available:
+Browse the available sheets on the accompanying GitHub Pages page:
 
-* [Sketch](https://github.com/futurice/cheatsheets/raw/master/final/Sketch.pdf)
-* [Affinity Designer](https://github.com/futurice/cheatsheets/raw/master/final/Affinity%20Designer.pdf)
+http://futurice.github.io/cheatsheets/
+
+Project files for editing the sheets are in `src`.
