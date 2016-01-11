@@ -21,6 +21,14 @@ p {
 
 h2 {
     font-size: 1.5em;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+img { 
+   border-style: solid;
+   border-color: #eeeeee;
+   border-width: 1px;
 }
 
 .red {
